@@ -12,7 +12,7 @@ namespace Demo.Attributes
             var someClass = new SomeClass();
             ClassPrinter.Print(someClass);
 
-            #region ?(???)?
+            #region (* ^ ? ^)
             //var method = someClass.GetType()
             //    .GetMethod("PrintMessage", BindingFlags.NonPublic | BindingFlags.Instance);
             //method.Invoke(someClass, null);
